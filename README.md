@@ -1,5 +1,8 @@
 # Groundwater simulation 
 ## Welcome
+![GitHub stars](https://img.shields.io/github/stars/codebucks27/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
+![GitHub forks](https://img.shields.io/github/forks/codebucks27/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
+![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
 <div align="center">
 <img src="https://github.com/Feraul/Feraul.github.io/assets/9256110/daa094f7-517e-4f80-a391-48fad44d1457" width="700px" />
 </div>
