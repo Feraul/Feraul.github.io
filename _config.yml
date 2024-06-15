@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Fernando R. L. Contreras / Site Title"
+title                    : "Groundwater Simulation"
 title_separator          : "-"
 name                     : &name "Fernando"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "Feraul/Feraul.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Fernando R. L. Contreras"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
