@@ -1,21 +1,28 @@
-The MIT License (MIT)
+source "https://rubygems.org"
 
-Copyright (c) 2016 Michael Rose
+# Hello! This is where you manage which Jekyll version is used to run.
+# When you want to use a different version, change it below, save the
+# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
+#
+#     bundle exec jekyll serve
+#
+# This will help ensure the proper Jekyll version is running.
+# Happy Jekylling!
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+gem "github-pages", group: :jekyll_plugins
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+# If you want to use Jekyll native, uncomment the line below.
+# To upgrade, run `bundle update`.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+# gem "jekyll"
+
+gem "wdm", "~> 0.1.0" if Gem.win_platform?
+
+# If you have any plugins, put them here!
+group :jekyll_plugins do
+  # gem "jekyll-archives"
+  gem "jekyll-feed"
+  gem 'jekyll-sitemap'
+  gem 'hawkins'
+  gem "webrick", "~> 1.8"
+end

@@ -1,28 +1,8 @@
-source "https://rubygems.org"
+Contributions are welcome! 
 
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-#
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
+Please add issues and make pull requests. There are no stupid questions. All ideas are welcome. This is a volunteer project. Be excellent to each other.
 
-gem "github-pages", group: :jekyll_plugins
+Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
 
-# If you want to use Jekyll native, uncomment the line below.
-# To upgrade, run `bundle update`.
+Fork from master and go from there. Remember that this repository is intended to remain a generic, ready-to-fork template that demonstrates the features of academicpages.
 
-# gem "jekyll"
-
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
-
-# If you have any plugins, put them here!
-group :jekyll_plugins do
-  # gem "jekyll-archives"
-  gem "jekyll-feed"
-  gem 'jekyll-sitemap'
-  gem 'hawkins'
-  gem "webrick", "~> 1.8"
-end
