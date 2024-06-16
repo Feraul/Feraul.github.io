@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+Numerical simulation of flow and transport in porous media.
 
 {% include base_path %}
 
@@ -22,6 +23,8 @@ Skills
 * Transport of contaminants in aquifers
 * Groundwater flow
 * Simulation of fluid flows in saturated and non-saturated zones
+* modeling and simulation of unstable miscible and immiscible fluid flow in heterogeneous porous media
+  
 
 Fields of interest
 -------------------
@@ -30,6 +33,7 @@ Fields of interest
 * Development of algorithms
 * Post-processing and visualization of results
 * Finite element method
+
 
 
 Publications
