@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently Associate Professor 3 at the Federal College of Pernambuco Agreste (CAA-UFPE) and a permanent member of the Postgraduate Program in Civil and Environmental Engineering (PPGECAM-UFPE). My research focuses on mathematical modeling, development of computational tools and numerical simulation of fluid flow in porous media. I have experience in discrete variational formulations, transport phenomena, computational fluid dynamics and conservative numerical methods. I mainly work in the following research areas: Modeling and numerical simulation of petroleum reservoirs, mathematical modeling of aquifers and the unsaturated zone, soil and groundwater contamination and remediation.
+I develop numerical methods and computational algorithms to better understand the fluid dynamics in porous media.
 
 Academic Appointments
 ======
