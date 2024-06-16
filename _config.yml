@@ -28,16 +28,16 @@ author:
   location         : "Earth"
   employer         : "Federal University of Pernambuco"
   uri              : # URL
-  email            : "fernando.ral@ufpe.br" 
+  email            : "fernando.raul@ufpe.br" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com.br/citations?hl=pt-BR&user=h4_TmtIAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0001-6195-0788"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Fernando-R-L-Contreras"# URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
