@@ -15,5 +15,5 @@ Some results of research
 ... 
 write here
 
-Contreras et al., (2023)
+Example: Contreras et al., (2023)
 ![Editing a markdown file for a talk](/images/image2.png)
