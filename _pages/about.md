@@ -23,9 +23,5 @@ Some results of research
 ... 
 write here
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-#For more info
-#------
-#More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme]#(https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Example: Contreras et al., (2023)
+![Editing a markdown file for a talk](/images/image2.png)
