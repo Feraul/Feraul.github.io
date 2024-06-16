@@ -6,40 +6,35 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+Numerical simulation of flow and transport in porous media.
 
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Bachelor’s degree in Mathematics, Universidad Nacional San Luis Gonzaga, 2008.
+* Master’s degree in Mechanical Engineering, Federal University of Pernambuco, 2012.
+* PhD degree in Mechanical Engineering, Federal University of Pernambuco, 2016.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computational fluid dynamics
+* Modeling and numerical simulation of multiphase flows in porous media
+* Transport of contaminants in aquifers
+* Groundwater flow
+* Simulation of fluid flows in saturated and non-saturated zones
+* modeling and simulation of unstable miscible and immiscible fluid flow in heterogeneous porous media
+  
+
+Fields of interest
+-------------------
+* Linear and non-linear finite volume methods
+* Conservative methods with low, high and high resolution
+* Development of algorithms
+* Post-processing and visualization of results
+* Finite element method
+
+
 
 Publications
 ======

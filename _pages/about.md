@@ -1,31 +1,19 @@
 ---
 permalink: /
-title: "Bibliography"
+title: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Construction.
+I develop numerical methods and computational algorithms to better understand the fluid dynamics in porous media.
 
-Research areas of interest
-======
-1. Put here
-2. 
-
-Getting started
-======
-.....
 
 Some results of research 
 ------
 ... 
 write here
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-#For more info
-#------
-#More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme]#(https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Example: Contreras et al., (2023)
+![Editing a markdown file for a talk](/images/image2.png)
