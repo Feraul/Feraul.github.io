@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<p style='text-align: justify;'> Your Text </p>
 
 I develop numerical methods and computational algorithms to better understand the fluid dynamics in porous media.
 
