@@ -9,16 +9,11 @@ redirect_from:
 
 I develop numerical methods and computational algorithms to better understand the fluid dynamics in porous media.
 
-Academic Appointments
-======
-1. Put here
-2. 
-
 Professional Education
 ======
-1. Bachelor's degree in Mathematics from the Universidad Nacional San Luis Gonzaga (2008).
+1. PhD degree in Mechanical Engineering from the Federal College of Pernambuco (2016).
 2. Master's degree in Mechanical Engineering from the Federal College of Pernambuco (2012).
-3. PhD degree in Mechanical Engineering from the Federal College of Pernambuco (2016).
+3. Bachelor's degree in Mathematics from the Universidad Nacional San Luis Gonzaga (2008).
 
 Some results of research 
 ------
