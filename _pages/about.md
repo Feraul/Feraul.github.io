@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bibliography"
+title: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,14 +9,15 @@ redirect_from:
 
 Construction.
 
-Research areas of interest
+Academic Appointments
 ======
 1. Put here
 2. 
 
-Getting started
+Professional Education
 ======
-.....
+1. Put here
+2.
 
 Some results of research 
 ------
