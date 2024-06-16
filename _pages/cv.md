@@ -17,12 +17,20 @@ Education
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computational fluid dynamics
+* Modeling and numerical simulation of multiphase flows in porous media
+* Transport of contaminants in aquifers
+* Groundwater flow
+* Simulation of fluid flows in saturated and non-saturated zones
+
+Fields of interest
+-------------------
+* Linear and non-linear finite volume methods
+* Conservative methods with low, high and high resolution
+* Development of algorithms
+* Post-processing and visualization of results
+* Finite element method
+
 
 Publications
 ======
