@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
- My academic routine focuses in the development of computational algorithms and sophisticated numerical methods for modelling and simulation of fluid dynamics in porous media in general. These computational tools can be used for the simulation and modeling of saturated and unsaturated aquifers, contaminant transport and groundwater. They can also be used for the simulation and modeling of oil reservoir. These simulations provide detailed information about the behavior of aquifers and reservoirs that help hydrologists and researchers make the best management decisions.
+ My day-to-day academic work focuses on the development of computational algorithms and advanced numerical methods for modeling and simulation of fluid dynamics in porous media in general. These computational tools can be used for the simulation and modeling of saturated and unsaturated aquifers, contaminant transport and groundwater. In addition, these tools can be used for the simulation and modeling of oil reservoir. These simulations provide detailed information about the behavior of aquifers and reservoirs that help hydrologists and researchers make the best management decisions.
 </p>
 
 
