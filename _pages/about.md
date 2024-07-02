@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in the reserach and development numerical methods and computational algorithms to better understand the flow behavior in porous media.
-
+I am interested in researching and developing numerical methods and computational algorithms to better understand the flow behavior in porous media.
 
 Some results of research 
 ------
