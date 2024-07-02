@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in the development of computational algorithms and the formulation of sophisticated numerical methods for modelling and simulation of fluid dynamics in porous media in general
+I am interested in the development of computational algorithms and the formulation of sophisticated numerical methods for modelling and simulation of fluid dynamics in porous media in general. These computational tools can be used for the simulation and modeling of saturated and unsaturated aquifers, contaminant transport and groundwater flow. They can also be used for the simulation and modeling of oil fields. These simulations provide detailed information about the behavior of aquifers and reservoirs that help hydrologists and researchers make the best management decisions.
 
 
 Some results of research 
