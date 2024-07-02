@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I develop numerical methods and computational algorithms to better understand the fluid dynamics in porous media.
+I am interested in the reserach and development numerical methods and computational algorithms to better understand the flow behavior in porous media.
 
 
 Some results of research 
