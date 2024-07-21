@@ -10,7 +10,7 @@
 #minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Grupo de hidrologeologia computacional"
+title                    : "Computational hydrogeology group"
 title_separator          : "-"
 name                     : &name "Fernando"
 description              : &description "personal description"
