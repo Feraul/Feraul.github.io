@@ -23,10 +23,10 @@ repository               : "Feraul/Feraul.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image.jpg"
-  name             : "Fernando R. L. Contreras"
+ # avatar           : "image.jpg"
+ # name             : "Fernando R. L. Contreras"
   pronouns         : # example: "she/her"  
-  bio              : "I am teacher of mathematics"
+ # bio              : "I am teacher of mathematics"
   location         : "Earth"
   employer         : "Federal University of Pernambuco"
   uri              : # URL
