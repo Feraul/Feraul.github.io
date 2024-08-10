@@ -22,6 +22,7 @@ $$
 \nabla \times B  = \mu_0 \left(J + \varepsilon_0 \partial_t E \right)
 }
 $$
+
 In figure below, we see the contaminant transporte in one dimensional problem, considering that the porous media is isotropic and homogeneous. 
 
 Example: Contreras et al., (2023)
@@ -33,14 +34,13 @@ Groundwater simulation
 
 $$
 \displaylines{
-\begin{center}
 	\begin{equation}
 	\mu_{e}\frac{\partial h}{\partial t} = -\nabla \cdot(\vec{v})-f,\quad \vec{v}=-K\nabla h,
 	\label{Eq1}
 	\end{equation}
-\end{center}
 }
 $$
+
 In figure below, 
 Example: Contreras, (2024)
 ![Editing a markdown file for a talk](/images/figurax1.png)
