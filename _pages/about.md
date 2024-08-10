@@ -52,8 +52,8 @@ Oil resevoir simulation
 ------
 $$
 \displaylines{
-\begin{equation} 
+ 
 \frac{\partial(\phi\rho_{i}S_{i})}{\partial t}=-\nabla\cdot(\rho_{i}\vec{v}_{i})+q_{i}\quad\text{and}\quad \sum_{i=\text{o},\text{w}}S_{i}=1
-\end{equation}
+
 }
 $$
