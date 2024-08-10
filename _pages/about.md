@@ -19,14 +19,12 @@ In figure below, we see the contaminant transporte in one dimensional problem, c
 Example: Contreras et al., (2023)
 ![Editing a markdown file for a talk](/images/image2.png)
 
-</p>
 
 Groundwater simulation 
 ------
 In construction ...!
 
-</p>
 
 Oil resevoir simulation 
 ------
-In construction
+In construction...!
