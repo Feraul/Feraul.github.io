@@ -50,4 +50,13 @@ Example: Contreras, (2024)
 
 Oil resevoir simulation 
 ------
-In construction...!
+$$
+\displaylines{
+\begin{equation}\label{eq1} 
+\frac{\partial(\phi\rho_{i}S_{i})}{\partial t}=-\nabla\cdot(\rho_{i}\vec{v}_{i})+q_{i}\quad\text{and}\quad \sum_{i=\text{o},\text{w}}S_{i}=1
+\end{equation}
+\begin{equation}\label{eq2} 
+\vec{v}_{i}=-\lambda_{i}\utilde{K}\nabla p_{i},\quad i=\text{o},\text{w}
+\end{equation}
+}
+$$
