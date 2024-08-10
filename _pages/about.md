@@ -52,6 +52,10 @@ Example: Contreras, (2024)
 
 Oil resevoir simulation 
 ------
+<p style="text-align: justify;">
+The simulation of oil reservoirs is an important tool in petroleum engineering to model the behavior of oil and gas reservoirs over time. This simulation helps engineers and geoscientists understand how fluids flow through porous rock layers and predict how they will behave under different conditions.
+</p>
+
 $$
 \displaylines{
  \begin{equation}
