@@ -15,7 +15,7 @@ The group focuses on the development of computational algorithms and advanced nu
 Contaminant transport simulation 
 ------
 $$
-	\begin{equation}\label{eq2s}
+	\begin{equation}
 		\phi \frac{\partial c}{\partial t}+ \nabla\cdot(c\vec{v})+\nabla\cdot(-\textbf{D}\nabla c)=F,
 	\end{equation}
 $$
