@@ -15,7 +15,7 @@ The group focuses on the development of computational algorithms and advanced nu
 Some results of research 
 ------
 ... 
-In this last paper we investigated 
+In this figure we see the contaminant transporte in one dimensional problem, considering that the porous media is isotropic and homogeneous. 
 
 Example: Contreras et al., (2023)
 ![Editing a markdown file for a talk](/images/image2.png)
