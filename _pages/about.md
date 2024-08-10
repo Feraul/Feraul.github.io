@@ -57,3 +57,9 @@ $$
 
 }
 $$
+and
+$$
+\displaylines{
+\vec{v}_{i}=-\lambda_{i}\utilde{K}\nabla p_{i},\quad i=\text{o},\text{w}
+}
+$$
