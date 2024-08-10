@@ -14,6 +14,9 @@ The group focuses on the development of computational algorithms and advanced nu
 
 Contaminant transport simulation 
 ------
+<p style="text-align: justify;">
+The simulation of contaminant transport is an important area of study to understand how contaminants move through environmental systems such as water and soil. These simulations are used to predict the dispersion of contaminants, evaluate the effectiveness of remediation strategies and ensure compliance with environmental regulations.
+</p>
 $$
 \displaylines{
 	\begin{equation}
