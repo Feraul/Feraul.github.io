@@ -17,7 +17,7 @@ Contaminant transport simulation
 <p style="text-align: justify;">
 The simulation of contaminant transport is an important area of study to understand how contaminants move through environmental systems such as water and soil. These simulations are used to predict the dispersion of contaminants, evaluate the effectiveness of remediation strategies and ensure compliance with environmental regulations.
 
-The advection-dispersion equation is able to model the spatial and temporal evolution of chemical or biological substances in a fluid and can be represented by the concentration field, $c(x,y,t)$, as follows:
+In this case, the advection-dispersion equation is able to model the spatial and temporal evolution of chemical or biological contaminants in a fluid and can be represented by the concentration field, $c(x,y,t)$, as follows:
 </p>
 $$
 \displaylines{
