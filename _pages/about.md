@@ -15,12 +15,9 @@ The group focuses on the development of computational algorithms and advanced nu
 Contaminant transport simulation 
 ------
 $$
-\displaylines{
-\nabla \cdot E= \frac{\rho}{\epsilon_0} \\\
-\nabla \cdot B=0 \\\
-\nabla \times E= -\partial_tB \\\
-\nabla \times B  = \mu_0 \left(J + \varepsilon_0 \partial_t E \right)
-}
+	\begin{equation}\label{eq2s}
+		\phi \frac{\partial c}{\partial t}+ \nabla\cdot(c\vec{v})+\nabla\cdot(-\textbf{D}\nabla c)=F,
+	\end{equation}
 $$
 
 In figure below, we see the contaminant transporte in one dimensional problem, considering that the porous media is isotropic and homogeneous. 
