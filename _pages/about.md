@@ -16,7 +16,7 @@ Contaminant transport simulation
 ------
 $$
 	\begin{equation}
-		\phi \frac{\partial c}{\partial t}+ \nabla\cdot(c\vec{v})+\nabla\cdot(-\textbf{D}\nabla c)=F,
+		\phi \frac{\partial c}{\partial t}+ \nabla\cdot(c\vec{v})+\nabla\cdot(-\textbf{D}\nabla c)=F, \quad \vec{v}=-K\nabla p
 	\end{equation}
 $$
 
@@ -32,8 +32,7 @@ Groundwater simulation
 $$
 \displaylines{
 	\begin{equation}
-	\mu_{e}\frac{\partial h}{\partial t} = -\nabla \cdot(\vec{v})-f,\quad \vec{v}=-K\nabla h,
-	\label{Eq1}
+	\mu_{e}\frac{\partial h}{\partial t} = -\nabla \cdot(\vec{v})-f,\quad \vec{v}=-K\nabla h
 	\end{equation}
 }
 $$
