@@ -15,9 +15,11 @@ The group focuses on the development of computational algorithms and advanced nu
 Contaminant transport simulation 
 ------
 $$
+\displaylines{
 	\begin{equation}
 		\phi \frac{\partial c}{\partial t}+ \nabla\cdot(c\vec{v})+\nabla\cdot(-\textbf{D}\nabla c)=F, \quad \vec{v}=-K\nabla p
 	\end{equation}
+ }
 $$
 
 In figure below, we see the contaminant transporte in one dimensional problem, considering that the porous media is isotropic and homogeneous. 
