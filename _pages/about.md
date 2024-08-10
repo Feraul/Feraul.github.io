@@ -22,8 +22,8 @@ Example: Contreras et al., (2023)
 
 Groundwater simulation 
 ------
-In construction ...!
-
+Example: Contreras, (2024)
+![Editing a markdown file for a talk](/images/figurax1.png)
 
 Oil resevoir simulation 
 ------
