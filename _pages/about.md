@@ -22,6 +22,7 @@ Example: Contreras et al., (2023)
 
 Groundwater simulation 
 ------
+In figure below, 
 Example: Contreras, (2024)
 ![Editing a markdown file for a talk](/images/figurax1.png)
 
