@@ -63,7 +63,11 @@ and
 $$
 \displaylines{
 \begin{equation}
-\vec{v}_{i}=-\lambda_{i}\utilde{K}\nabla p_{i},\quad i=\text{o},\text{w}
+\vec{v}_{i}=-\lambda_{i}K\nabla p_{i},\quad i=\text{o},\text{w}
 \end{equation}
 }
 $$
+
+In figure below, 
+Example: Contreras, (2021)
+![Editing a markdown file for a talk](/images/figurax2.png)
