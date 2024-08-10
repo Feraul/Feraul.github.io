@@ -35,7 +35,9 @@ Example: Contreras et al., (2023)
 
 Groundwater simulation 
 ------
-
+<p style="text-align: justify;">
+In groundwater simulation, models and computational tools are used to understand and predict the behavior of groundwater systems. These simulations are crucial for the management of water resources, the assessment of contamination risks and the planning of sustainable water use.
+</p>
 $$
 \displaylines{
 	\begin{equation}
